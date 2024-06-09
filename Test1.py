@@ -6,3 +6,7 @@ git
 '''
 
 print('这是一个测试的代码')
+
+print('hahaha')
+
+print('我提交')
